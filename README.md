@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 👋 Hey there! I'm Pranav (praj33)
@@ -226,3 +227,21 @@ mindmap
 - Update your current focus areas
 
 **🎯 Pro Tip:** This profile will automatically update with your GitHub stats and contribution graph!
+=======
+## Hi there 👋
+
+<!--
+**praj33/praj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 6a8ff20c4ad0a615ef243b04481250012e073f58
