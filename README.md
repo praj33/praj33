@@ -264,10 +264,8 @@ mindmap
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg" onerror="this.src='https://via.placeholder.com/800x200/1a1b27/70a5fd?text=Snake+Animation+Loading...+Please+wait+for+workflow+to+complete'">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg">
 </picture>
-
-<p><em>🔄 Snake animation is generating... If you don't see it, the GitHub Actions workflow is still running!</em></p>
 
 </div>
 
