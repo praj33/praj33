@@ -112,14 +112,20 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praj33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj33&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/praj33">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praj33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+</a>
+<a href="https://github.com/praj33">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj33&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praj33&theme=tokyonight)
+<a href="https://github.com/praj33">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praj33&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -168,7 +174,9 @@ me.say_hi()
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=praj33&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+<a href="https://github.com/praj33">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praj33&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&border_radius=10" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -252,12 +260,14 @@ mindmap
 ## 🐍 **Watch my contribution graph get eaten by the snake!**
 
 <div align="center">
-    
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/praj33/praj33/output/github-contribution-grid-snake.svg" onerror="this.src='https://via.placeholder.com/800x200/1a1b27/70a5fd?text=Snake+Animation+Loading...+Please+wait+for+workflow+to+complete'">
 </picture>
+
+<p><em>🔄 Snake animation is generating... If you don't see it, the GitHub Actions workflow is still running!</em></p>
 
 </div>
 
@@ -271,6 +281,6 @@ mindmap
 
 ![Visitor Count](https://profile-counter.glitch.me/praj33/count.svg)
 
-**Last Updated:** December 2024 | **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=praj33&color=brightgreen)
+**Last Updated:** January 2025 | **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=praj33&color=brightgreen&style=flat-square)
 
 </div>
